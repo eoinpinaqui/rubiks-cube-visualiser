@@ -7,12 +7,12 @@ project uses [Processing](https://processing.org/) to draw the cube to the scree
 
 |               | Clockwise     | Counter-clockwise  |
 | ------------- |:-------------:| -----:|
-| Front         | F             | f     |
-| Back          | B             | b     |
-| Top           | U             | u     |
-| Bottom        | D             | d     |
-| Right         | R             | r     |
-| Left          | L             | l     |
+| Front (Green)        | F             | f     |
+| Back (Blue)        | B             | b     |
+| Top (White)       | U             | u     |
+| Bottom (Yellow)        | D             | d     |
+| Right (Red)         | R             | r     |
+| Left (Orange)          | L             | l     |
 |               |               |       |
 | Scramble      | Space bar     |       |
 | Solve         | Enter/Return  |       |
